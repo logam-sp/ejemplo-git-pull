@@ -1,2 +1,2 @@
-# Repositorio para practicar pull
+# Repositorio para practicar pull (test)
 Repositorio para probar git pull
